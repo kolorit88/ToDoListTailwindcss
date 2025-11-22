@@ -1,0 +1,17 @@
+{
+  "name": "todo-list-tailwind",
+  "version": "1.0.0",
+  "description": "To-Do List with Tailwind CSS",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "tailwindcss": "^3.3.0",
+    "postcss": "^8.4.0",
+    "autoprefixer": "^10.4.0"
+  }
+}
